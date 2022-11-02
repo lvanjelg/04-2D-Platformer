@@ -1,4 +1,4 @@
-# Project Name
+# 04-2D-Platformer
 
 Context and date
 
@@ -12,4 +12,4 @@ Which features you included
 ## Future Development
 
 ## Created by
-Jason Francis
+Luke Van Jelgerhuis
