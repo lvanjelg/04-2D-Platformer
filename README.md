@@ -1,15 +1,18 @@
 # 04-2D-Platformer
 
-Context and date
-
-Description
+2D Platformer game for project 4 in MSCH-G 220
+11/2/22
 
 ## Implementation
-Which features you included
+* Created multiple levels
+* Created enemies
+* Created score system
+* Implemented coins
 
 ## References
+https://www.kenney.nl/assets/scribble-platformer
 
 ## Future Development
-
+None
 ## Created by
 Luke Van Jelgerhuis
