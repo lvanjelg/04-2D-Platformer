@@ -1,7 +1,7 @@
 # 04-2D-Platformer
 
-2D Platformer game for project 4 in MSCH-G 220
-11/2/22
+* 2D Platformer game for project 4 in MSCH-G 220
+* 11/2/22
 
 ## Implementation
 * Created multiple levels
@@ -10,7 +10,7 @@
 * Implemented coins
 
 ## References
-https://www.kenney.nl/assets/scribble-platformer
+* https://www.kenney.nl/assets/scribble-platformer
 
 ## Future Development
 None
